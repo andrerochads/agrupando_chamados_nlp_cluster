@@ -1,4 +1,4 @@
-# README - Projeto de Clusterização de Chamados com NLP
+# Projeto de Clusterização de Chamados com NLP
 Neste repositório, apresento o projeto no qual trabalhei para agrupar chamados utilizando clusterização e NLP. O objetivo principal era encontrar grupos de chamados semelhantes, o é útil para melhorar a organização e eficiência no tratamento dessas solicitações.
 
 ## Contexto
